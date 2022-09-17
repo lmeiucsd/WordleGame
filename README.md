@@ -30,22 +30,22 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's an example of a loss:
 
 <img src='wordlefail.gif' title='Fail Example' width='' alt='Fail Example' />
 
+Here's an example of a win:
+
 <img src='wordlewin.gif' title='Win Example' width='' alt='Win Example' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
+
+GIF created with 
 [ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had trouble trying to convert an Editable type to a String type for the checkGuess function but I was able to solve it after a while.
 
 ## License
 
